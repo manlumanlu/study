@@ -1,2 +1,2 @@
 # study
-Learning
+Learn cloud computing
